@@ -31,12 +31,7 @@ const Home = () => {
         <div>
           <h1>Who we are?</h1>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quod
-            laborum, placeat quam animi aliquam harum facere eius illo veritatis
-            nisi natus in eveniet doloremque officiis deleniti similique quae
-            praesentium cum repellendus. Ad eum et fugiat beatae possimus
-            ducimus! Velit quidem commodi vitae optio quibusdam? Quam qui
-            aspernatur ullam odit iste!
+          Welcome to our platform, where knowledge meets opportunity. We empower creators to showcase and sell their expertise through courses that inspire and educate. With a seamless interface and diverse range of subjects, we connect learners with valuable insights while providing creators a platform to thrive. Join us in shaping the future of education.
           </p>
         </div>
       </div>
